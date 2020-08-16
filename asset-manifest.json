@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Drum-Machine/static/css/main.8474b302.chunk.css",
+    "main.js": "/Drum-Machine/static/js/main.ce9113f5.chunk.js",
+    "main.js.map": "/Drum-Machine/static/js/main.ce9113f5.chunk.js.map",
+    "runtime-main.js": "/Drum-Machine/static/js/runtime-main.d322cb89.js",
+    "runtime-main.js.map": "/Drum-Machine/static/js/runtime-main.d322cb89.js.map",
+    "static/js/2.e6a348fb.chunk.js": "/Drum-Machine/static/js/2.e6a348fb.chunk.js",
+    "static/js/2.e6a348fb.chunk.js.map": "/Drum-Machine/static/js/2.e6a348fb.chunk.js.map",
+    "index.html": "/Drum-Machine/index.html",
+    "precache-manifest.dcc7e55ea445e32a40d64398686d60f6.js": "/Drum-Machine/precache-manifest.dcc7e55ea445e32a40d64398686d60f6.js",
+    "service-worker.js": "/Drum-Machine/service-worker.js",
+    "static/css/main.8474b302.chunk.css.map": "/Drum-Machine/static/css/main.8474b302.chunk.css.map",
+    "static/js/2.e6a348fb.chunk.js.LICENSE.txt": "/Drum-Machine/static/js/2.e6a348fb.chunk.js.LICENSE.txt",
+    "static/media/Clap808.wav": "/Drum-Machine/static/media/Clap808.b402ee08.wav",
+    "static/media/african-pe-hi.wav": "/Drum-Machine/static/media/african-pe-hi.d5759e1f.wav",
+    "static/media/african-pe-lo.wav": "/Drum-Machine/static/media/african-pe-lo.65594122.wav",
+    "static/media/african-pe-med.wav": "/Drum-Machine/static/media/african-pe-med.9f75920e.wav",
+    "static/media/clap.wav": "/Drum-Machine/static/media/clap.526ed20c.wav",
+    "static/media/clap10.wav": "/Drum-Machine/static/media/clap10.9728f69a.wav",
+    "static/media/claps-w_cymb.WAV": "/Drum-Machine/static/media/claps-w_cymb.d902aa53.WAV",
+    "static/media/cleap-real-2-verb2cleap-real.wav": "/Drum-Machine/static/media/cleap-real-2-verb2cleap-real.7a308aa0.wav",
+    "static/media/verby-cajon-lo.wav": "/Drum-Machine/static/media/verby-cajon-lo.dd271a19.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d322cb89.js",
+    "static/js/2.e6a348fb.chunk.js",
+    "static/css/main.8474b302.chunk.css",
+    "static/js/main.ce9113f5.chunk.js"
+  ]
+}
